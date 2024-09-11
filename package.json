@@ -14,7 +14,7 @@
     "turbo360": "^1.8.68",
     "vertex360": "^0.29.9",
     "express": "^4.17.1",
-    "send": "0.16.2",
+    "send": "0.19.0",
     "serve-static": "1.13.2"
   },
   "devDependencies": {
